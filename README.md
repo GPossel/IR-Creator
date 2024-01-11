@@ -12,9 +12,12 @@ For the graduation internship of Gentle Possel there is an IR-Creator created. I
 
 ## Shop
 
-![shop](https://github.com/GPossel/IR-Creator/assets/47417277/cadaa7df-f353-4185-84c9-122fbfcbcb41)
-
+![shop](https://github.com/GPossel/IR-Creator/assets/47417277/26afbd89-096c-4aee-a48f-1c3ffcd9a6a5)
 
 ## Mixpanel
 
 ![mixingpanel](https://github.com/GPossel/IR-Creator/assets/47417277/c2735eb6-ba32-4136-a9e4-b281d5e97de8)
+
+## Home menu
+
+![home-menu](https://github.com/GPossel/IR-Creator/assets/47417277/e3d8ce70-7c37-47a9-996b-117d6ec2a112)
