@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1181db193c18f39469e21e859ee5fe9a, type: 3}
+  m_Name: _coin
+  m_EditorClassIdentifier: 
+  ItemTypePref: {fileID: 4567923028659076864, guid: 54091adaa38a247409de205569d770c9, type: 3}
+  TextField: {fileID: 6988050088466636330, guid: 0f70ec008312b054b832a5c3f8408df6, type: 3}
+  QuantityTextField: {fileID: 7411782726822976542, guid: ad2b051663e80144c9e71b65955b1247, type: 3}
+  SpriteSource: {fileID: 21300000, guid: 2741125c2d8574c4f8bb72d2b5cb38fc, type: 3}
+  Name: Coin
+  CanStack: 1
+  itemType: 1
+  MaxStackSize: 1000
+  ItemSize: 1

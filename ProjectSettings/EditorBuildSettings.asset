@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Create_Game_Main_Menu.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/StartLevel.unity
+    guid: 3ed2cf1eb82fc1e49bf00a6452595f4b
+  - enabled: 1
+    path: Assets/Scenes/GameUIPlayOptionsQuit.unity
+    guid: 457ab650ffc72cc46a2eeba0a7476905
+  - enabled: 1
+    path: Assets/Scenes/CharacterSelection.unity
+    guid: 1fffdd28d5901b847be8535e3afc2e7d
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: e110dd86e0f3be042a79fc9da443041b, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: d2b826fb2a0bbd647b33eeaefec254db, type: 2}

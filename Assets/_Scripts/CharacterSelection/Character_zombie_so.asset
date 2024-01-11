@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f59bcc7cbd6e42c4088944ac2ca457a3, type: 3}
+  m_Name: Character_zombie_so
+  m_EditorClassIdentifier: 
+  Name: MUAAW!
+  Material: {fileID: 2100000, guid: 16d401ea17778ee42adbeacf37f4978a, type: 2}
+  Color: {r: 1, g: 0, b: 0.9529412, a: 0}
+  CharacterSprite: {fileID: 21300000, guid: da3e83f0ec4d176409f2b0a7f4e43eff, type: 3}
+  Currency: 3
+  Price: 100
+  isUnlocked: 0
+  PrefabOfCharacter: {fileID: 1824340380413090, guid: bbc1f886046d189409a64495c738f7e5, type: 3}
